@@ -24,6 +24,7 @@ Sentiment analysis from movies comments. Use differentes approach and compare re
 - Fasttext and Glove embeddings
 - LSTM
 - BERT
+
 Colab: [computer_vision_learning_exam](https://github.com/hernancontigiani/AI-Specialization-Projects/blob/main/nlp_exam.ipynb)
 
 # Thanks!
