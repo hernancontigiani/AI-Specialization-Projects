@@ -25,7 +25,7 @@ Sentiment analysis from movies comments. Use differentes approach and compare re
 - LSTM
 - BERT
 
-Colab: [computer_vision_learning_exam](https://github.com/hernancontigiani/AI-Specialization-Projects/blob/main/nlp_exam.ipynb)
+Colab: [NLP_exam](https://github.com/hernancontigiani/AI-Specialization-Projects/blob/main/nlp_exam.ipynb)
 
 # Thanks!
 Feel free to contact me by mail _hernan4790@gmail.com_ for any doubt.\
